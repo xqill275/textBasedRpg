@@ -31,3 +31,6 @@ def load_game():
         else:
             print("invalid file number")
 load_game()
+
+
+# test script
